@@ -1,0 +1,78 @@
+OnLoadName= "Assasination";
+briefing=1;
+
+
+
+class CfgRadio
+{
+	class dealeraway
+	{
+	name = "dealeraway";
+	sound[] = { "sound\dealeraway.ogg", db+0, 1 };
+		title = "";
+	};
+
+	class doku1
+	{
+	name = "doku1";
+	sound[] = { "sound\doku1.ogg", db+0, 1 };
+		title = "";
+	};
+	
+	class doku2
+	{
+	name = "doku2";
+	sound[] = { "sound\doku2.ogg", db+0, 1 };
+		title = "";
+	};
+
+	class dokuroger
+	{
+	name = "dokuroger";
+	sound[] = { "sound\dokuroger.ogg", db+0, 1 };
+		title = "";
+	};
+
+	class down
+	{
+	name = "down";
+	sound[] = { "sound\down.ogg", db+0, 1 };
+		title = "";
+	};
+	
+	class down1
+	{
+	name = "down1";
+	sound[] = { "sound\down1.ogg", db+0, 1 };
+		title = "";
+	};
+
+	class down2
+	{
+	name = "down2";
+	sound[] = { "sound\down2.ogg", db+0, 1 };
+		title = "";
+	};
+	class haly
+	{
+	name ="haly";
+	sound[] = { "sound\haly.ogg", db+0, 1};
+		title = "Bishop to arrow. Be advised. Enemy are in engaging";
+	};
+
+	class satelliitti
+	{
+	name ="satelliitti";
+	sound[] = { "sound\satelliitti.ogg", db+0, 1};
+		title = "";
+	};
+	
+	class land
+	{
+	name ="land";
+	sound[] = { "sound\land.ogg", db+0, 1};
+		title = "Bishop to the Arrow, target is landing!";
+	};
+
+};
+
